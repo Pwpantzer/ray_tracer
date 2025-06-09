@@ -3,7 +3,6 @@
 
 #include "Vec.hpp"
 
-// unchanged from previous project
 typedef struct {
     Vec origin; 
     Vec dir;
