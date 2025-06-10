@@ -27,5 +27,5 @@ A simple C++ ray tracer that renders 3D scenes consisting of spheres and planes 
 - To compile and run the project, use:
 
 ```bash
-g++ *.cpp -o ray_tracer
+g++ Color.cpp Light.cpp Main.cpp Plane.cpp Sphere.cpp Vec.cpp -o ray_tracer
 ./ray_tracer
